@@ -27,17 +27,16 @@ For example, Our software offers real-time inventory tracking, automated reorder
 
 5. Unique Selling Proposition (USP):
    - Explain the concept of a Unique Selling Proposition (USP). How do you identify and articulate your software project's USP in your pitch?
-   - 
-A USP is defined as what differentiates your product from competitors. It highlights the unique benefits and features that make your solution stand out.I can identify and articulate my software project's USP in my pitch by Identifying what makes my software unique, focusing on the benefits that are most valuable to my audience and communicating them clearly 
+   - A unique selling proposition—or USP—is a statement of what makes your business stand out from the competition. (Kelwig. D, 2024). I can identify and articulate my software project's USP in my pitch by Identifying what makes my software unique, focusing on the benefits that are most valuable to my audience and communicating them clearly 
 
 
 6. Technical Feasibility:
    - How do you address technical feasibility in your pitch? What details should you include to assure stakeholders of your project's technical viability?
-   - I can address technical feasibility in my pitch by Outlining the structure and components of the software, providing a timeline for development phases and identifying potential technical challenges and mitigation strategies.
+   - I can address technical feasibility in my pitch by outlining the structure and components of the software, providing a timeline for development phases and identifying potential technical challenges and mitigation strategies.
 
 7. Business Model:
    - Describe the components of a business model that should be presented in a software project pitch. How does a well-defined business model benefit your pitch?
-   - Some of the components of a business model that should be presented in a software project pitch include Revenue streams that detail how the software will make money, cost structure that outlines the costs involved in developing and maintaining the software and key partnerships.
+   - Some of the components of a business model that should be presented in a software project pitch include Revenue streams that detail how the software will make money, cost structure that outlines the costs involved in developing and maintaining the software and key partnerships. (Kopp.C.M 2024)
 A well-defined business model benefits my pitch by explaining how my software will generate revenue and sustain growth. 
 
 
@@ -48,24 +47,21 @@ A well-defined business model benefits my pitch by explaining how my software wi
 
 9. Financial Projections:
    - How do you create and present financial projections in your pitch? What financial information is critical to include to attract potential investors?
-   - Create and present financial projections to attract potential investors. Include:
-
-Revenue forecasts: Projected earnings over the next few years.
-Expense forecasts: Expected costs and investments needed.
-Break-even analysis: When the project will become profitable.
-
+   - Create and present financial projections by gathering data and making assumptions, building financial models, creating financial statements and presenting Your Financial Projections. Some of the financial information include; Revenue forecasts and expense forecasts.(Mane.J,2023)
 
 10. Call to Action:
     - What is a call to action in the context of a software project pitch? Provide examples of effective calls to action that can be used to close your pitch.
-    - A call to action encourages stakeholders to take the next step. Effective calls to action:
+    - A call to action is a clear and compelling request that tells your audience what you want them to do next, such as sign up, buy, or contact you. (Pujari.P,2023)
+For Example:
+For investors, 'Join us in revolutionizing inventory management for small businesses. Invest today and be part of a market composed for exponential growth. Contact us at farmconnect@gmail.com to schedule a meeting.'
+For customers, 'Experience the future of inventory management. Sign up for our beta program today and get exclusive access to our AI-driven insights. Visit www.FarmConnect.com to learn more and register.'
 
-Are clear and specific.
-Create a sense of urgency.
-Provide a straightforward path for engagement.
-Examples:
-"For investors: 'Join us in revolutionizing inventory management for small businesses. Invest today and be part of a market poised for exponential growth. Contact us at [email] to schedule a meeting.'"
+11. REFERENCES
+Mane.J (2023)Building a Strong Financial Plan to Attract Investors for Your Business in Ghana
+Pujari.P, (2023) What are the best strategies for creating a strong call to action during a pitch
+Kopp.C.M (2024) What is a business model with types and examples
+Kelwig.D (2024) What is a unique selling proposition? USP examples and definition.
 
-"For customers: 'Experience the future of inventory management. Sign up for our beta program today and get exclusive access to our AI-driven insights. Visit [website] to learn more and register.'"
 
 Submission Guidelines:
 
